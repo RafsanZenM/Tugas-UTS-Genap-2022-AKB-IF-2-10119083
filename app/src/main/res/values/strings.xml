@@ -1,0 +1,20 @@
+<resources>
+    <!--Nama : Rafsan Zen Mustaofa-->
+    <!--Kelas : IF2-->
+    <!--NIM : 10119083-->
+    <string name="app_name">Tugas UTS Genap 2022 AKB IF-2 10119083</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Profile Mahasiswa</string>
+    <string name="menu_gallery">Catatan </string>
+    <string name="menu_slideshow">Tentang Aplikasi</string>
+
+
+
+
+</resources>
