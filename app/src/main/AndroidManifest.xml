@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.TugasUTSGenap2022AKBIF210119083">
         <activity
+            android:name=".ui.gallery.Update_BiodataActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.gallery.Lihat_BiodataActivity"
+            android:exported="false" />
+        <activity
             android:name=".ui.gallery.Buat_BiodataActivity"
             android:exported="false" />
         <activity
